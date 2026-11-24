@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# build/tool output yang tidak perlu di repo
+.preview-server.log
+.preview-server.pid
+*.log
+
+# aset lokal / metadata tool
+.cloud-attachments/
+.freebuff/
